@@ -1,0 +1,9 @@
+What happens when you initialize a repository? why do you need to do it?
+Well, when you initialize a new repository you will see that your files 
+appear like untracked files, because does not exist a previous history about them, and you need initialize this directory because you need 
+create a .git directory that will contain the metadata into itself.
+
+How is the staging area different from the working directory and the 
+repository ? what value do you think it offers? the staging area is like 
+another directory but in this directory you have the posibility to put 
+only the files taht you want and that is the special value.
