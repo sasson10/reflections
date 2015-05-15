@@ -1,0 +1,31 @@
+-How did viewing a diff between two versions of a file help you see the bug that was introduced?
+ I think that when you see the two files together, is easier identify 
+ your mistakes and visualize the differences.
+
+ -How could having easy access to the entire history of a file make you a
+ more efficient programmer in the long term?
+
+ Mmm, well i think that if you have the capability to access to the 
+ complete development history, you can easy find mistakes, and go back
+ to an old version file.
+
+-What do you think are the pros and cons of manually choosing when to create a commit, lke you do in Git, vs having versions automatically saved, like google docs does?
+
+I believe that one of the pros is that if you are forgetful is good to know that the program does it for you, but when you are thinking about programation isn't the best option, that's the con.
+When you have the capability to choose when to create a commit is more possible do it well.
+
+-Why do you think some version control systems, like Git, allow save multiple files in one commit, while others, like google docs, treat each file separately? 
+i think that in Git the kind of files that you can manage can be related one to another, but in google docs the files can be managed separately.
+
+How can you use the commands git log and git diff to view the history of files?
+first yo need the git log command to see the commits in a file, after that you need find the id of both commits an write them after the git diff command to can visualize the diffrerences between two files, you can use the colors lines tool to find easier the changes.
+
+How might using version control make you more confident to make 
+changes that could break something?
+Well i think that if you have the posibility come back to an older 
+version of your file is easier can trust in your imagination because 
+you always will have the option to return one step behind. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I would like try to start a new project using Git from the begining to 
+can control everything from Git.
