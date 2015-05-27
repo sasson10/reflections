@@ -4,6 +4,25 @@ appear like untracked files, because does not exist a previous history about the
 create a .git directory that will contain the metadata into itself.
 
 How is the staging area different from the working directory and the 
-repository ? what value do you think it offers? the staging area is like 
-another directory but in this directory you have the posibility to put 
-only the files taht you want and that is the special value.
+repository ? what value do you think it offers? the staging area is
+like another directory but in this directory you have the posibility to put only the files taht you want and that is the special value. 
+
+How can you use the staging area to make sure you have one commit per 
+logical change?
+you could use the "git diff --staged" to see the differences between 
+the staging area and the repository and decide if is a good idea do a 
+commit at this point.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+the branches can help you when want to create an experimental version with the code that you have like base, is like have a back up without lost the code that already you have.
+
+How do the diagrams help you visualize the branch structure?
+Is a good practice create a diagram with the structure of the project to have a control about where we are, and how to acces to a remote branch.
+
+What is the result of merging two branches together? Why do we represent it the diagram the way we do?
+the result is a fusion of both branches with their respective commits, 
+we need to do a diagram to see the changes because we can lost the 
+knowledge about where we are.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+that you don´t have to write all the code again and sort it, you just need to modify the necessary lines. 
