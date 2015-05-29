@@ -17,3 +17,5 @@ Creating copies of one file again and again, thye easier part would be tell to y
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 i think that you have to work in a separate branch when you want to prove new features into the program and you don't know if it works well, so you have to prove it first locally.
 i think that if you work directlty to the master branch in the original file is dangerous.
+
+hola
